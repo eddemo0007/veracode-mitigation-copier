@@ -1,0 +1,1 @@
+August 23, 2023 - Version 0001 - Cloned from: https://github.com/tjarrettveracode/veracode-mitigation-copier.git to https://github.com/eddemo0007/veracode-mitigation-copier
